@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736667616620",
+    "project_id": "energy-audit-tool-64552",
+    "storage_bucket": "energy-audit-tool-64552.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736667616620:android:5c25879a88a7fd97a69f49",
+        "android_client_info": {
+          "package_name": "com.example.energy_audit_tool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAMxXjFPWTxn7qyGoNTVzShVhq8oXgTiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
